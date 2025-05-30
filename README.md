@@ -71,14 +71,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abd-km&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
@@ -99,14 +91,6 @@
 ---
 
 <div align="center">
-
-### 🚀 "Code is poetry written in logic" 
-
-![Snake animation](https://github.com/abd-km/abd-km/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐️ From [abd-km](https://github.com/abd-km) with 🍪
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
