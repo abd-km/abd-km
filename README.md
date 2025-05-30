@@ -1,4 +1,4 @@
-# ✨ Hello, I'm Abdullah Mostafa ✨
+#  Hello, I'm Abdullah Mostafa ✨
 
 <div align="center">
 
@@ -84,7 +84,6 @@
 
 </div>
 
----
 
 <div align="center">
 
